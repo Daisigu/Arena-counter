@@ -1,0 +1,12 @@
+
+.content-block{
+    margin-top: 40px;
+    width: 800px;
+    height: 400px;
+}
+.content-form{
+    border: none;
+}
+.submit-button {
+    margin-top: 35px;
+}
