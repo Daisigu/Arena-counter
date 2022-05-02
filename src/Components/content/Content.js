@@ -16,7 +16,7 @@ const Content = () =>{
          setcurrentConq(data.currentConq)
          setnecessaryConq(data.necessaryConq)
       }
-      let totalConq2s = Math.ceil(((+necessaryConq + +startConq)-currentConq)/40)
+      let totalConq2s = Math.ceil(((+necessaryConq + +startConq)-currentConq)/45)
       let totalConq3s = Math.ceil(((+necessaryConq + +startConq)-currentConq)/60)
            
   return (
